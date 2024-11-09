@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zlafleur,
 - 👀 I’m interested in Cybersecurity/Programming.
-- 🌱 I’m currently learning DevSecOps.
+- 🌱 I’m currently working in DevSecOps.
 - 💞️ I’m looking to collaborate on any new and fun projects.
 - 📫 How to reach me ping me on GH.
 - 😄 Pronouns: I don't care. 
